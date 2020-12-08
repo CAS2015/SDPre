@@ -7,7 +7,6 @@ public class Objective3Lab3 {
     second = 1 + (int)(Math.random() * 6);
     third = 1 + (int)(Math.random() * 6);
     //printing out statement: "first + second + third = sum of variables"
-    System.out.println(first + " + " + second + " + " + third + " = " +
-    (first+second+third));
+    System.out.println(first + " + " + second + " + " + third + " = " + (first+second+third));
   }
 }
